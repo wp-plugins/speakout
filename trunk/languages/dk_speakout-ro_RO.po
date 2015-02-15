@@ -1,0 +1,1075 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SpeakUp! Email Petitions\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-20 07:18-0700\n"
+"PO-Revision-Date: 2013-03-20 07:19-0700\n"
+"Last-Translator: Kreg <Wallace>\n"
+"Language-Team: Web Geeks\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;_n;_nx;_n_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: speakup-email-petitions.php:61
+msgid "Support"
+msgstr "Suport"
+
+#: speakup-email-petitions.php:62
+msgid "Donate"
+msgstr "Dona"
+
+#: includes/addnew.php:28 includes/addnew.php:53
+msgid "Edit Email Petition"
+msgstr "Editare E-mail petiţie"
+
+#: includes/addnew.php:32 includes/addnew.php:57 includes/addnew.php:76
+msgid "Update Petition"
+msgstr "Petiţia Update"
+
+#: includes/addnew.php:39
+#, php-format
+msgid ""
+"Petition created. Use %1$s %2$s %3$s to display in a page or post. Use %1$s "
+"%4$s %3$s to display the signatures list."
+msgstr ""
+"Petiţia creat. Utilizaţi %1$ s %2$ s %3$ s pentru a afişa într-o pagină sau "
+"post. Utilizaţi %1$ s %4$ s %3$ s pentru a afişa lista de semnături."
+
+#: includes/addnew.php:72
+msgid "Edit New Email Petition"
+msgstr "Editare nou E-mail petiţie"
+
+#: includes/addnew.php:77
+msgid "Petition updated."
+msgstr "Petiţia actualizate."
+
+#: includes/addnew.php:84
+msgid "Add New Email Petition"
+msgstr "Adăugare nou E-mail petiţie"
+
+#: includes/addnew.php:88
+msgid "Create Petition"
+msgstr "Creaţi petiţie"
+
+#: includes/addnew.php:90
+msgid "Add me to your mailing list"
+msgstr "Adauga-ma la lista de discuţii"
+
+#: includes/addnew.view.php:49
+msgid "Error: Please correct the highlighted fields."
+msgstr "Eroare: Vă rugăm să corectaţi câmpurile evidenţiate."
+
+#: includes/addnew.view.php:64
+msgid "Enter title here"
+msgstr "Introduceţi titlul aici"
+
+#: includes/addnew.view.php:71 includes/emailpetition.php:223
+#: includes/help.php:33 includes/petitions.view.php:17
+#: includes/petitions.view.php:26 includes/signatures.php:69
+#: includes/signatures.php:106 includes/signatures.view.php:46
+#: includes/signatures.view.php:58 includes/widget.php:86
+msgid "Petition"
+msgstr "Petiţie"
+
+#: includes/addnew.view.php:75 includes/help.php:7
+msgid "Do not send email (only collect signatures)"
+msgstr "Nu trimiteţi e-mail (doar colecta semnături)"
+
+#: includes/addnew.view.php:79 includes/help.php:8
+msgid "Target Email"
+msgstr "Ţintă E-mail"
+
+#: includes/addnew.view.php:82 includes/help.php:9 includes/help.php:70
+#: includes/settings.view.php:127
+msgid "Email Subject"
+msgstr "Subiectul e-mail"
+
+#: includes/addnew.view.php:85 includes/help.php:10
+msgid "Greeting"
+msgstr "Salut"
+
+#: includes/addnew.view.php:90 includes/help.php:11
+msgid "Petition Message"
+msgstr "Petiţia mesaj"
+
+#: includes/addnew.view.php:97 includes/help.php:14 includes/help.php:38
+msgid "Twitter Message"
+msgstr "Mesajul de stare de nervozitate"
+
+#: includes/addnew.view.php:112 includes/help.php:43
+msgid "Petition Options"
+msgstr "Petiţia opţiuni"
+
+#: includes/addnew.view.php:121 includes/help.php:17
+msgid "Confirm signatures"
+msgstr "Confirma semnături"
+
+#: includes/addnew.view.php:124
+msgid "Return URL"
+msgstr "Reveniți URL"
+
+#: includes/addnew.view.php:133 includes/help.php:18
+msgid "Allow custom messages"
+msgstr "Permiteţi mesaje personalizate"
+
+#: includes/addnew.view.php:141 includes/help.php:19
+msgid "Set signature goal"
+msgstr "Semnătura set gol"
+
+#: includes/addnew.view.php:144 includes/petitions.view.php:20
+#: includes/petitions.view.php:29
+msgid "Goal"
+msgstr "Obiectiv"
+
+#: includes/addnew.view.php:153 includes/help.php:20
+msgid "Set expiration date"
+msgstr "Data de expirare set"
+
+#: includes/addnew.view.php:157
+msgid "Jan"
+msgstr "Jan"
+
+#: includes/addnew.view.php:158
+msgid "Feb"
+msgstr "Feb"
+
+#: includes/addnew.view.php:159
+msgid "Mar"
+msgstr "Mar"
+
+#: includes/addnew.view.php:160
+msgid "Apr"
+msgstr "Apr"
+
+#: includes/addnew.view.php:161
+msgid "May"
+msgstr "Mai"
+
+#: includes/addnew.view.php:162
+msgid "Jun"
+msgstr "Iun"
+
+#: includes/addnew.view.php:163
+msgid "Jul"
+msgstr "Iul"
+
+#: includes/addnew.view.php:164
+msgid "Aug"
+msgstr "Aug"
+
+#: includes/addnew.view.php:165
+msgid "Sep"
+msgstr "Sep"
+
+#: includes/addnew.view.php:166
+msgid "Oct"
+msgstr "Oct"
+
+#: includes/addnew.view.php:167
+msgid "Nov"
+msgstr "Nov"
+
+#: includes/addnew.view.php:168
+msgid "Dec"
+msgstr "Dec"
+
+#: includes/addnew.view.php:190 includes/help.php:48
+msgid "Display Options"
+msgstr "Opţiuni de afişare"
+
+#: includes/addnew.view.php:199 includes/help.php:23
+msgid "Display address fields"
+msgstr "Afişa câmpurile de adresă"
+
+#: includes/addnew.view.php:203 includes/emailpetition.php:96
+#: includes/widget.php:234
+msgid "Street"
+msgstr "Stradă"
+
+#: includes/addnew.view.php:206 includes/csv.php:47
+#: includes/emailpetition.php:104 includes/settings.view.php:98
+#: includes/widget.php:241
+msgid "City"
+msgstr "Oraş"
+
+#: includes/addnew.view.php:209 includes/emailpetition.php:111
+#: includes/settings.view.php:101 includes/widget.php:248
+msgid "State / Province"
+msgstr "Stat / Provincie"
+
+#: includes/addnew.view.php:212 includes/csv.php:49
+#: includes/emailpetition.php:121 includes/settings.view.php:104
+#: includes/widget.php:258
+msgid "Post Code"
+msgstr "Cod poştal"
+
+#: includes/addnew.view.php:215 includes/csv.php:50
+#: includes/emailpetition.php:128 includes/settings.view.php:107
+#: includes/widget.php:265
+msgid "Country"
+msgstr "Ţară"
+
+#: includes/addnew.view.php:223 includes/help.php:24
+msgid "Display custom field"
+msgstr "Afişare câmp particularizat"
+
+#: includes/addnew.view.php:226 includes/addnew.view.php:238
+msgid "Label"
+msgstr "Eticheta"
+
+#: includes/addnew.view.php:235 includes/help.php:25
+msgid "Display opt-in checkbox"
+msgstr "Afişa caseta de opt-in"
+
+#: includes/admin.php:9 includes/admin.php:10 includes/petitions.php:44
+#: includes/petitions.php:55
+msgid "Email Petitions"
+msgstr "E-mail petiţii"
+
+#: includes/admin.php:20 includes/admin.php:21 includes/petitions.view.php:4
+msgid "Add New"
+msgstr "Adăugare nou"
+
+#: includes/admin.php:30 includes/admin.php:31 includes/petitions.view.php:19
+#: includes/petitions.view.php:28 includes/signatures.view.php:4
+msgid "Signatures"
+msgstr "Semnături"
+
+#: includes/admin.php:40 includes/settings.view.php:4
+msgid "Email Petitions Settings"
+msgstr "E-mail petiţii setările"
+
+#: includes/admin.php:41
+msgid "Settings"
+msgstr "Setări"
+
+#: includes/class.petition.php:185
+msgid "No Title"
+msgstr "Fără titlu"
+
+#: includes/class.speakup.php:117
+msgid "items"
+msgstr "elemente"
+
+#: includes/class.speakup.php:131 includes/class.speakup.php:134
+msgid "of"
+msgstr "de"
+
+#: includes/confirmations.php:52
+msgid "Thank you. Your signature has been added to the petition."
+msgstr "vă mulţumesc. Semnătura dumneavoastră a fost adăugat la petiţia."
+
+#: includes/confirmations.php:57
+msgid "Your signature has already been confirmed."
+msgstr "Semnătura electronică a fost deja confirmată."
+
+#: includes/confirmations.php:61
+msgid "The confirmation code you provided is invalid."
+msgstr "Codul de confirmare pe care le-aţi furnizat este nevalid."
+
+#: includes/confirmations.php:96
+msgid "Email Confirmation"
+msgstr "Confirmare e-mail"
+
+#: includes/confirmations.php:98
+msgid "You will be redirected momentarily."
+msgstr "Veţi fi redirecţionat din clipă în clipă."
+
+#: includes/csv.php:9 includes/signatures.php:5
+msgid "Insufficient privileges: You need to be an editor to do that."
+msgstr ""
+"Privilegii insuficiente: aveţi nevoie pentru a fi un editor pentru a face "
+"asta."
+
+#: includes/csv.php:22 includes/signatures.view.php:66
+msgid "No signatures found."
+msgstr "Nici semnături găsit."
+
+#: includes/csv.php:43 includes/emailpetition.php:75 includes/widget.php:213
+msgid "First Name"
+msgstr "Prenume"
+
+#: includes/csv.php:44 includes/emailpetition.php:79 includes/widget.php:217
+msgid "Last Name"
+msgstr "Nume de familie"
+
+#: includes/csv.php:45
+msgid "Email Address"
+msgstr "Adresa de e-mail"
+
+#: includes/csv.php:46
+msgid "Street Address"
+msgstr "Adresa"
+
+#: includes/csv.php:48
+msgid "State"
+msgstr "Stat"
+
+#: includes/csv.php:51
+msgid "Date Signed"
+msgstr "Data semnării"
+
+#: includes/csv.php:52 includes/signatures.view.php:47
+#: includes/signatures.view.php:59
+msgid "Confirmed"
+msgstr "Confirmat"
+
+#: includes/csv.php:53
+msgid "Petition Title"
+msgstr "Petiţia titlu"
+
+#: includes/csv.php:54
+msgid "Petition ID"
+msgstr "Petiţia ID"
+
+#: includes/csv.php:55
+msgid "Email Opt-in"
+msgstr "E-mail Opt-in"
+
+#: includes/csv.php:56
+msgid "Custom Message"
+msgstr "Mesaj personalizat"
+
+#: includes/csv.php:57
+msgid "Language"
+msgstr "Limbă"
+
+#: includes/csv.php:67 includes/settings.view.php:110
+msgid "Custom Field"
+msgstr "Câmp particularizat"
+
+#: includes/csv.php:83 includes/signatures.view.php:76
+msgid "confirmed"
+msgstr "confirmat"
+
+#: includes/csv.php:86 includes/signatures.view.php:78
+msgid "unconfirmed"
+msgstr "neconfirmate"
+
+#: includes/csv.php:94 includes/signatures.view.php:84
+msgid "yes"
+msgstr "da"
+
+#: includes/csv.php:97 includes/signatures.view.php:86
+msgid "no"
+msgstr "nu"
+
+#: includes/emailpetition.php:67
+msgid "Read the petition"
+msgstr "Citiți petiția"
+
+#: includes/emailpetition.php:83 includes/signatures.view.php:45
+#: includes/signatures.view.php:57 includes/widget.php:221
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/emailpetition.php:89 includes/widget.php:227
+msgid "Confirm Email"
+msgstr "Confirmați e-mail"
+
+#: includes/emailpetition.php:148 includes/emailpetition.php:155
+#: includes/emailpetition.php:176 includes/emailpetition.php:205
+#: includes/widget.php:161 includes/widget.php:178 includes/widget.php:187
+msgid "signature"
+msgstr "semnătura"
+
+#: includes/emailpetition.php:195 includes/widget.php:207
+msgid "Signature goal"
+msgstr "Semnătura gol"
+
+#: includes/emailpetition.php:200 includes/widget.php:203
+msgid "End date"
+msgstr "Data de terminare"
+
+#: includes/emailpetition.php:201 includes/widget.php:204
+msgid "Signatures collected"
+msgstr "Semnăturile colectate"
+
+#: includes/emailpetition.php:225
+msgid "Error: You must include a valid id."
+msgstr "Eroare: Trebuie să includă un document de identitate valabil."
+
+#: includes/help.php:6 includes/help.php:75 includes/settings.view.php:81
+#: includes/widget.php:83
+msgid "Title"
+msgstr "Titlul"
+
+#: includes/help.php:6
+msgid ""
+"Enter the title of your petition, which will appear at the top of the "
+"petition form."
+msgstr ""
+"Introduceţi titlul petiţiei dumneavoastră, care va apărea în partea de sus a "
+"formularului de cerere."
+
+#: includes/help.php:7
+msgid ""
+"Use this option if do not wish to send petition emails to a target address."
+msgstr ""
+"Utilizaţi această opţiune dacă nu doriţi să trimiteţi e-mailuri petiţie o "
+"adresă ţintă."
+
+#: includes/help.php:8
+msgid ""
+"Enter the email address to which the petition will be sent. You may enter "
+"multiple email addresses, separated by commas."
+msgstr ""
+"Introduceţi adresa de e-mail la care cererea va fi trimis. Puteţi introduce "
+"mai multe adrese de e-mail, separate prin virgule."
+
+#: includes/help.php:9
+msgid "Enter the subject of your petition email."
+msgstr "Introduceţi subiectul petiţiei dumneavoastră de e-mail."
+
+#: includes/help.php:10
+msgid ""
+"Include a greeting to the recipient of your petition, such as \"Dear Sir,\" "
+"which will appear as the first line of the email."
+msgstr ""
+"Includeţi un salut la destinatarul petiţiei dumneavoastră, cum ar fi "
+"\"Stimate domn,\", care va apărea ca prima linie de e-mail."
+
+#: includes/help.php:11
+msgid "Enter the content of your petition email."
+msgstr "Introduceţi conţinutul petiţiei dumneavoastră de e-mail."
+
+#: includes/help.php:14
+msgid ""
+"Enter a prepared tweet that will be presented to users when the Twitter "
+"button is clicked."
+msgstr ""
+"Introduceţi un tweet pregătită, care va fi prezentat pentru a utilizatorilor "
+"atunci când se face clic pe butonul de Twitter."
+
+#: includes/help.php:17
+msgid ""
+"Use this option to cause an email to be sent to the signers of your "
+"petition. This email contains a special link must be clicked to confirm the "
+"signer's email address. Petition emails will not be sent until the signature "
+"is confirmed."
+msgstr ""
+"Utilizaţi această opţiune pentru a provoca un e-mail pentru a fi trimis la "
+"semnatarii petiţiei dumneavoastră. Acest e-mail conţine o legătură specială "
+"trebuie să fie clic pentru a confirma adresa de e-mail semnatarului. E-"
+"mailurile petiţia nu vor fi trimise până la semnarea se confirmă."
+
+#: includes/help.php:18
+msgid ""
+"Check this option to allow signatories to customize the text of their "
+"petition email."
+msgstr ""
+"Bifaţi această opţiune pentru a permite semnatarilor de a personaliza textul "
+"de e-mail cererea lor."
+
+#: includes/help.php:19
+msgid ""
+"Enter the number of signatures you hope to collect. This number is used to "
+"calculate the progress bar display."
+msgstr ""
+"Introduceţi numărul de semnături va spera sa colecteze. Acest număr este "
+"folosit pentru a calcula de afişare bara de progres."
+
+#: includes/help.php:20
+msgid "Use this option to stop collecting signatures on a specific date."
+msgstr ""
+"Utilizaţi această opţiune pentru a opri de colectare a semnăturilor la o "
+"anumită dată."
+
+#: includes/help.php:23
+msgid "Select the address fields to display in the petition form."
+msgstr "Selectaţi câmpurile de adresă pentru a afişa în formularul de petiţie."
+
+#: includes/help.php:24
+msgid "Add a custom field to the petition form for collecting additional data."
+msgstr ""
+"Adăugarea unui câmp personalizat pentru formularul de cerere pentru "
+"colectarea de date suplimentare."
+
+#: includes/help.php:25
+msgid ""
+"Include a checkbox that allows users to consent to receiving further email."
+msgstr ""
+"Include o casetă de selectare, care permite utilizatorilor de a consimţi la "
+"primirea de e-mail mai departe."
+
+#: includes/help.php:56
+msgid ""
+"These settings control the display of the [emailpetition] shortcode and "
+"sidebar widget."
+msgstr ""
+"Aceste setări controlează afişarea [emailpetition] scurtătură şi bara "
+"laterală widget."
+
+#: includes/help.php:57 includes/settings.view.php:23
+msgid "Petition Theme"
+msgstr "Petiţia Tematica"
+
+#: includes/help.php:57
+msgid "Select a CSS theme that will control the appearance of petition forms."
+msgstr ""
+"Selectaţi o temă CSS, care va controla apariţia de forme de petiţionare."
+
+#: includes/help.php:58 includes/settings.view.php:30
+msgid "Widget Theme"
+msgstr "Widget Tema"
+
+#: includes/help.php:58
+msgid ""
+"Select a CSS theme that will control the appearance of petition widgets."
+msgstr ""
+"Selectaţi o temă CSS, care va controla aspectul widget-uri de petiţionare."
+
+#: includes/help.php:59 includes/settings.view.php:37
+msgid "Submit Button Text"
+msgstr "Prezinte buton Text"
+
+#: includes/help.php:59
+msgid ""
+"Enter the text that displays in the orange submit button on petition forms."
+msgstr ""
+"Introduceţi textul care se afişează în portocaliu prezinte butonul de pe "
+"forme de petiţionare."
+
+#: includes/help.php:60 includes/settings.view.php:41
+msgid "Success Message"
+msgstr "Mesaj de succes"
+
+#: includes/help.php:60
+msgid ""
+"Enter the text that appears when a user successfully signs your petition "
+"with a unique email address."
+msgstr ""
+"Introduceţi textul care apare atunci când un utilizator semnează petiţia de "
+"succes cu o adresa de e-mail unic."
+
+#: includes/help.php:61 includes/settings.view.php:49
+msgid "Share Message"
+msgstr "Cota de mesaj"
+
+#: includes/help.php:61
+msgid ""
+"Enter the text that appears above the Twitter and Facebook buttons after the "
+"petition form has been submitted."
+msgstr ""
+"Introduceţi textul care apare deasupra Twitter şi Facebook butoanele după "
+"forma petiţie a fost depusă."
+
+#: includes/help.php:62 includes/settings.view.php:53
+msgid "Expiration Message"
+msgstr "Expirare mesaj"
+
+#: includes/help.php:62
+msgid ""
+"Enter the text to display in place of the petition form when a petition is "
+"past its expiration date."
+msgstr ""
+"Introduceţi text pentru a afişa în loc de forma petiţiei atunci când o "
+"petiţie este trecut data de expirare."
+
+#: includes/help.php:63 includes/settings.view.php:57
+msgid "Already Signed Message"
+msgstr "Semnat deja mesaj"
+
+#: includes/help.php:63
+msgid ""
+"Enter the text to display when a petition is signed using an email address "
+"that has already been submitted."
+msgstr ""
+"Introduceţi text pentru a afişa atunci când o petiţie este semnată folosind "
+"o adresa de e-mail care a fost deja prezentat."
+
+#: includes/help.php:64 includes/settings.view.php:61
+msgid "Opt-in Default"
+msgstr "Opt-in implicit"
+
+#: includes/help.php:64
+msgid "Choose whether the opt-in checkbox is checked or unchecked by default."
+msgstr "Alegeţi dacă opt-in caseta este verificată sau debifat din oficiu."
+
+#: includes/help.php:65 includes/settings.view.php:68
+msgid "Display signature count"
+msgstr "Afişarea numărului de semnătură"
+
+#: includes/help.php:65
+msgid ""
+"Choose whether you wish to display the number of signatures that have been "
+"collected."
+msgstr ""
+"Alegeţi dacă doriţi să afişaţi numărul de semnături care au fost colectate."
+
+#: includes/help.php:68
+msgid "These settings control the content of the confirmation emails."
+msgstr "Onderwerpregel van uw bevestigingsmail."
+
+#: includes/help.php:69 includes/settings.view.php:123
+msgid "Email From"
+msgstr "E-mail la"
+
+#: includes/help.php:69
+msgid ""
+"Enter the email address associated with your website. Confirmation emails "
+"will be sent from this address."
+msgstr ""
+"Introduceţi adresa de e-mail asociată cu site-ul tau. Email-uri de "
+"confirmare va fi trimis de la această adresă."
+
+#: includes/help.php:70
+msgid "Enter the subject of the confirmation email."
+msgstr "Introduceţi subiectul e-mail de confirmare."
+
+#: includes/help.php:71 includes/settings.view.php:131
+msgid "Email Message"
+msgstr "Mesaj e-mail"
+
+#: includes/help.php:71
+msgid "Enter the content of the confirmation email."
+msgstr "Introduceţi conţinutul de e-mail de confirmare."
+
+#: includes/help.php:74
+msgid "These settings control the display of the [signaturelist] shortcode."
+msgstr "Aceste setări controlează afişarea [signaturelist] scurtătură."
+
+#: includes/help.php:75
+msgid "Enter the text that appears above the signature list."
+msgstr "Introduceţi textul care apare deasupra listei de semnătură."
+
+#: includes/help.php:76 includes/settings.view.php:84
+msgid "Theme"
+msgstr "Temă"
+
+#: includes/help.php:76
+msgid "Select a CSS theme that will control the appearance of signature lists."
+msgstr "Selectaţi o temă CSS, care va controla apariţia listelor de semnături."
+
+#: includes/help.php:77 includes/settings.view.php:91
+msgid "Rows"
+msgstr "Rânduri"
+
+#: includes/help.php:77
+msgid ""
+"Enter the number of signatures that will be displayed in the signature list."
+msgstr ""
+"Introduceţi numărul de semnături care vor fi afişate în lista de semnătură."
+
+#: includes/help.php:78 includes/settings.view.php:95
+msgid "Columns"
+msgstr "Coloane"
+
+#: includes/help.php:78
+msgid "Select the columns that will appear in the signature list."
+msgstr "Selectaţi coloanele care vor apărea în lista de semnătură."
+
+#: includes/help.php:81
+msgid ""
+"These settings control the look of the plugin's options pages within the "
+"WordPress administrator."
+msgstr ""
+"Aceste setări controlează aspectul paginilor plugin-ul de opţiuni în cadrul "
+"administratorul WordPress."
+
+#: includes/help.php:82 includes/settings.view.php:144
+msgid "Petitions table shows"
+msgstr "Petiţii tabelul Arată"
+
+#: includes/help.php:82
+msgid "Enter the number of rows to display in the \"Email Petitions\" table"
+msgstr ""
+"Introduceţi numărul de rânduri de afişat în \"pentru petiţii prin e-mail\" "
+"de masă"
+
+#: includes/help.php:83 includes/settings.view.php:148
+msgid "Signatures table shows"
+msgstr "Semnături de masă Arată"
+
+#: includes/help.php:83
+msgid "Enter the number of rows to display in the \"Signatures\" table"
+msgstr "Introduceţi numărul de rânduri de afişat în \"Semnături\" de masă"
+
+#: includes/help.php:84 includes/settings.view.php:152
+msgid "CSV file includes"
+msgstr "Fişierul CSV include"
+
+#: includes/help.php:84
+msgid ""
+"Select the subset of signatures that will be included in CSV file downloads"
+msgstr ""
+"Selectaţi subset de semnături care vor fi incluse în descărcări de fişiere "
+"CSV"
+
+#: includes/help.php:92 includes/settings.view.php:13
+#: includes/settings.view.php:20
+msgid "Petition Form"
+msgstr "Petiţia Formular"
+
+#: includes/help.php:97 includes/settings.view.php:14
+#: includes/settings.view.php:78
+msgid "Signature List"
+msgstr "Semnătura Lista"
+
+#: includes/help.php:102 includes/settings.view.php:15
+#: includes/settings.view.php:120
+msgid "Confirmation Emails"
+msgstr "Confirmarea e-mailuri"
+
+#: includes/help.php:107 includes/settings.view.php:16
+#: includes/settings.view.php:141
+msgid "Admin Display"
+msgstr "Afişare admin"
+
+#: includes/install.php:64
+msgid "Sign Now"
+msgstr "Semna"
+
+#: includes/install.php:65
+msgid "This petition is now closed."
+msgstr "Această petiție acum este închis."
+
+#: includes/install.php:66
+msgid "Thank you"
+msgstr "vă mulţumesc"
+
+#: includes/install.php:66
+msgid "Your signature has been added."
+msgstr "Semnătura dumneavoastră a fost adăugat."
+
+#: includes/install.php:67
+msgid "This petition has already been signed using your email address."
+msgstr "Această petiție a fost semnat deja folosind adresa de email."
+
+#: includes/install.php:68
+msgid "Share this with your friends:"
+msgstr "Share this cu prietenii:"
+
+#: includes/install.php:69 includes/install.php:189
+msgid "Please confirm your email address"
+msgstr "Vă rugăm să confirmaţi adresa de e-mail"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Hello"
+msgstr "Alo"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Thank you for singing our petition"
+msgstr "Vă mulţumim pentru a canta cererea noastră"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Please confirm your email address by clicking the link below:"
+msgstr ""
+"Vă rugăm să confirmaţi adresa de e-mail, făcând clic pe legătura de mai jos:"
+
+#: includes/install.php:75 includes/install.php:198
+msgid "Latest Signatures"
+msgstr "Ultimele semnături"
+
+#: includes/petitions.php:46
+msgid "Petition deleted."
+msgstr "Petiţia elimină."
+
+#: includes/petitions.view.php:9
+msgid "All Petitions"
+msgstr "Toate listele de subscripţie"
+
+#: includes/petitions.view.php:18 includes/petitions.view.php:27
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: includes/petitions.view.php:34
+msgid "No petitions found."
+msgstr "Nu petiţii găsit."
+
+#: includes/petitions.view.php:43
+msgid "Edit"
+msgstr "Editare"
+
+#: includes/petitions.view.php:44 includes/signatures.view.php:98
+msgid "Delete"
+msgstr "Ştergere"
+
+#: includes/petitions.view.php:54
+msgid "View Signatures"
+msgstr "Semnături de vizualizare"
+
+#: includes/petitions.view.php:64
+msgid ""
+"Delete this petition permanently? All of the petition's signatures will be "
+"deleted as well."
+msgstr ""
+"Ştergeţi definitiv această petiție? Toate semnăturile petiţia lui vor fi "
+"şterse, de asemenea."
+
+#: includes/settings.php:31
+msgid "Settings updated."
+msgstr "Setări actualizate."
+
+#: includes/settings.view.php:25 includes/settings.view.php:32
+#: includes/settings.view.php:86
+msgid "Default"
+msgstr "Implicit"
+
+#: includes/settings.view.php:26
+msgid "Basic"
+msgstr "Bază"
+
+#: includes/settings.view.php:27 includes/settings.view.php:33
+#: includes/settings.view.php:87
+msgid "None"
+msgstr "nici unul"
+
+#: includes/settings.view.php:27 includes/settings.view.php:33
+#: includes/settings.view.php:87
+msgid "use"
+msgstr "utiliza"
+
+#: includes/settings.view.php:44 includes/settings.view.php:134
+msgid "Accepted variables:"
+msgstr "Variabile acceptate:"
+
+#: includes/settings.view.php:45
+msgid "Accepted tags:"
+msgstr "Tag-uri acceptate:"
+
+#: includes/settings.view.php:63
+msgid "Checked"
+msgstr "Verificat"
+
+#: includes/settings.view.php:64
+msgid "Unchecked"
+msgstr "Neînregistrat"
+
+#: includes/settings.view.php:70
+msgid "Yes"
+msgstr "da"
+
+#: includes/settings.view.php:71
+msgid "No"
+msgstr "nu"
+
+#: includes/settings.view.php:92
+msgid "leave blank to display all"
+msgstr "Lăsaţi necompletat pentru a afişa toate"
+
+#: includes/settings.view.php:113 includes/signatures.view.php:49
+#: includes/signatures.view.php:61
+msgid "Date"
+msgstr "Data"
+
+#: includes/settings.view.php:145 includes/settings.view.php:149
+msgid "rows"
+msgstr "rânduri"
+
+#: includes/settings.view.php:154
+msgid "All signatures"
+msgstr "Toate semnăturile"
+
+#: includes/settings.view.php:155
+msgid "Only opt-in signatures"
+msgstr "Numai opt-in de semnături"
+
+#: includes/settings.view.php:156
+msgid "Only double opt-in signatures"
+msgstr "Numai double opt-in de semnături"
+
+#: includes/settings.view.php:156
+msgid "opt-in + confirmed"
+msgstr "opt-in + confirmat"
+
+#: includes/settings.view.php:162
+msgid "Save Changes"
+msgstr "Salvaţi modificările"
+
+#: includes/signatures.php:48 includes/signatures.php:119
+msgid "All Signatures"
+msgstr "Toate semnăturile"
+
+#: includes/signatures.php:52
+msgid "Signature deleted."
+msgstr "Semnătura elimină."
+
+#: includes/signatures.php:109
+msgid "Confirmation emails sent."
+msgstr "Confirmarea e-mailuri trimise."
+
+#: includes/signatures.view.php:16
+msgid "Select petition"
+msgstr "Selectaţi petiţie"
+
+#: includes/signatures.view.php:26
+msgid "Download as CSV"
+msgstr "Descărcare ca CSV"
+
+#: includes/signatures.view.php:27
+msgid "Re-send confirmations"
+msgstr "Trimiteţi din nou confirmări"
+
+#: includes/signatures.view.php:28
+msgid ""
+"Are you sure you want to do this? A separate confirmation email will be sent "
+"for each unconfirmed signature."
+msgstr ""
+"Eşti sigur că vrei să faci acest lucru? Va fi trimis un e-mail de confirmare "
+"separate pentru fiecare semnătură neconfirmate."
+
+#: includes/signatures.view.php:44 includes/signatures.view.php:56
+msgid "Name"
+msgstr "nume"
+
+#: includes/signatures.view.php:48 includes/signatures.view.php:60
+msgid "Opt-in"
+msgstr "Opt-in"
+
+#: includes/widget.php:15
+msgid "Display a petition form."
+msgstr "Afişează un formular petiţia."
+
+#: includes/widget.php:72
+msgid "Sign the Petition"
+msgstr "Semneze petiţia"
+
+#: includes/widget.php:84
+msgid "Sharing URL"
+msgstr "Partajarea URL"
+
+#: includes/widget.php:85
+msgid "Call to Action"
+msgstr "Apel la acţiune"
+
+#~ msgid "Petition Display"
+#~ msgstr "Petiţia Display"
+
+#~ msgid "Standard theme (default)"
+#~ msgstr "Tema standard (implicit)"
+
+#~ msgid "No theme. I will style the petition form myself."
+#~ msgstr "Nici o temă. I va stil forma petiţia mine."
+
+#~ msgid "Confirmation Message"
+#~ msgstr "Mesaj de confirmare"
+
+#~ msgid "Signature List Display"
+#~ msgstr "Semnătura lista Display"
+
+#~ msgid "Signature list header"
+#~ msgstr "Semnătura lista antet"
+
+#~ msgid "Signature list shows"
+#~ msgstr "Semnătura listă afişează"
+
+#~ msgid "Signature list columns"
+#~ msgstr "Listă de semnături coloane"
+
+#~ msgid "The subject line that will appear on signed petition emails."
+#~ msgstr "Linia de subiect care va apărea pe semnat petiţia email-uri."
+
+#~ msgid "The content of the petition which you are asking people to sign."
+#~ msgstr "Conținutul de care vă sunt cere oamenilor să semneze petiţia."
+
+#~ msgid ""
+#~ "The default content of a tweet that will be submitted to Twitter.com upon "
+#~ "clicking the Twitter button that is presented to users after signing your "
+#~ "petition."
+#~ msgstr ""
+#~ "Conținutul implicit un tweet care va fi prezentat de Twitter.com la "
+#~ "făcând clic pe butonul stare de nervozitate, care este prezentat "
+#~ "utilizatorilor după semnarea vă petiţia."
+
+#~ msgid ""
+#~ "Sends an email to petition signers that includes a special link. The link "
+#~ "must be clicked in order to confirm that the signer controls the email "
+#~ "address they submitted."
+#~ msgstr ""
+#~ "Trimite un e-mail către semnatarii petiţiei care include un link "
+#~ "speciale. Link-ul trebuie să fi făcut clic pentru a confirma că semnatar "
+#~ "controlează adresa de e-mail au prezentat."
+
+#~ msgid ""
+#~ "Allows you to set a date and time beyond which further signatures will no "
+#~ "longer be accepted for your petition."
+#~ msgstr ""
+#~ "Vă permite să setaţi data şi ora dincolo de care alte semnături nu mai "
+#~ "este acceptată pentru dumneavoastră petiţia."
+
+#~ msgid ""
+#~ "Displays a checkbox on the petition form allowing signers to indicate "
+#~ "whether they wish to receive further emails from you."
+#~ msgstr ""
+#~ "Afişează o casetă de selectare din formular petiţia care să permită "
+#~ "semnatarii pentru a indica dacă doresc să primiţi email-uri suplimentare "
+#~ "la tine."
+
+#~ msgid ""
+#~ "Select a theme to style the appearance of your petition form. The "
+#~ "\"Standard\" theme is the default grey box style. The \"Basic\" theme is "
+#~ "a plain form style without a bounding box. Selecting \"None\" will leave "
+#~ "the form without any CSS styling at all. You can provide your own theme "
+#~ "by selecting \"None\" and then copying the contents of the css/theme-"
+#~ "standard.css file into your theme's style.css file and editing those "
+#~ "styles as you wish."
+#~ msgstr ""
+#~ " apoi copierea conţinutul fişierului css/tema-standard.css în fişier "
+#~ "style.css tema lui şi editarea acestor stiluri, după cum doriţi."
+
+#~ msgid ""
+#~ "The text that displays when someone successfully submits the petition "
+#~ "form. You may use the Accepted Variables and Accepted HTML Tags listed "
+#~ "below this option to customize your message."
+#~ msgstr ""
+#~ "Textul care se afişează atunci când cineva cu succes remite formularul "
+#~ "petiţia. Utilizaţi variabilele acceptate şi Tag-uri HTML acceptate "
+#~ "enumerate mai jos această opţiune pentru a personaliza mesajul."
+
+#~ msgid ""
+#~ "These settings control the content of the confirmation emails that are "
+#~ "sent when the Confirm signatures option has been set for a petition."
+#~ msgstr ""
+#~ "Aceste setări controlează conținutul de email-uri de confirmare care se "
+#~ "trimit atunci când opţiunea de semnături confirmare a fost setată pentru "
+#~ "o petiţie."
+
+#~ msgid ""
+#~ "The content of the confirmation email. Use the Accepted Variables listed "
+#~ "below this option to customize your email message."
+#~ msgstr ""
+#~ "Conținutul de e-mail de confirmare. Utilizaţi variabilele acceptate "
+#~ "enumerate mai jos această opţiune pentru a personaliza mesajul e-mail."
+
+#~ msgid "SIGN THE PETITION"
+#~ msgstr "SEMNEZE PETIŢIA"
+
+#~ msgid "SIGN NOW"
+#~ msgstr "SEMN ACUM"
+
+#~ msgid "signatures"
+#~ msgstr "semnături"
+
+#~ msgid "Your Signature"
+#~ msgstr "Semnătura dvs."
+
+#~ msgid ""
+#~ "If you find this plugin useful, please consider %1$s making a donation "
+#~ "%2$s to support it's development."
+#~ msgstr ""
+#~ "Dacă aţi găsit acest plug-in util, vă rugăm să ia în considerare %1$ s "
+#~ "face o donatie %2$ s pentru a sprijini dezvoltarea acestuia."
+
+#~ msgid "Address"
+#~ msgstr "Adresa"
+
+#~ msgid ""
+#~ "Displays a textarea on the petition form for collecting the signer's "
+#~ "address.<"
+#~ msgstr ""
+#~ "Afişează un textarea pe formularul de petiţie pentru colectarea semnatar "
+#~ "' s adresa. <"
+
+#~ msgid "Your Name"
+#~ msgstr "numele tău"
+
+#~ msgid "Your Email"
+#~ msgstr "Email-ul tau"

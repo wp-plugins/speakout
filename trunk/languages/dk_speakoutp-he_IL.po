@@ -1,0 +1,960 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SpeakUp! Email Petitions\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-20 07:21-0700\n"
+"PO-Revision-Date: 2013-03-20 07:21-0700\n"
+"Last-Translator: Kreg <Wallace>\n"
+"Language-Team: Oren <oren@windowslive.com>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;_n;_nx;_n_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: speakup-email-petitions.php:61
+msgid "Support"
+msgstr "תמיכה"
+
+#: speakup-email-petitions.php:62
+msgid "Donate"
+msgstr "תרומה"
+
+#: includes/addnew.php:28 includes/addnew.php:53
+msgid "Edit Email Petition"
+msgstr "ערוך עצומה"
+
+#: includes/addnew.php:32 includes/addnew.php:57 includes/addnew.php:76
+msgid "Update Petition"
+msgstr "עדכן עצומה"
+
+#: includes/addnew.php:39
+#, php-format
+msgid ""
+"Petition created. Use %1$s %2$s %3$s to display in a page or post. Use %1$s "
+"%4$s %3$s to display the signatures list."
+msgstr ""
+"העצומה נוצרה. השתמש בקיצור: %1$s %2$s %3$s על מנת להטמיע את העצומה בפוסט או "
+"בעמוד. השתמש בקיצור: %1$s %4$s %3$s על מנת להטמיע את רשימת החותמים בפוסט או "
+"בעמוד."
+
+#: includes/addnew.php:72
+msgid "Edit New Email Petition"
+msgstr "ערוך עצומה נשלחת חדשה"
+
+#: includes/addnew.php:77
+msgid "Petition updated."
+msgstr "העצומה עודכנה."
+
+#: includes/addnew.php:84
+msgid "Add New Email Petition"
+msgstr "הוסף עצומה נשלחת חדשה"
+
+#: includes/addnew.php:88
+msgid "Create Petition"
+msgstr "צור עצומה חדשה"
+
+#: includes/addnew.php:90
+msgid "Add me to your mailing list"
+msgstr "הוסף אותי לרשימת התפוצה"
+
+#: includes/addnew.view.php:49
+msgid "Error: Please correct the highlighted fields."
+msgstr "יש למלא את הפרטים בתיבות המודגשות."
+
+#: includes/addnew.view.php:64
+msgid "Enter title here"
+msgstr "מלא כאן את הכותרת הרצויה"
+
+#: includes/addnew.view.php:71 includes/emailpetition.php:223
+#: includes/help.php:33 includes/petitions.view.php:17
+#: includes/petitions.view.php:26 includes/signatures.php:69
+#: includes/signatures.php:106 includes/signatures.view.php:46
+#: includes/signatures.view.php:58 includes/widget.php:86
+msgid "Petition"
+msgstr "עצומה"
+
+#: includes/addnew.view.php:75 includes/help.php:7
+msgid "Do not send email (only collect signatures)"
+msgstr "אל תשלח אימייל (רק תאסוף את החתימות)"
+
+#: includes/addnew.view.php:79 includes/help.php:8
+msgid "Target Email"
+msgstr "כתובת האימייל של הנמען"
+
+#: includes/addnew.view.php:82 includes/help.php:9 includes/help.php:70
+#: includes/settings.view.php:127
+msgid "Email Subject"
+msgstr "נושא האימייל"
+
+#: includes/addnew.view.php:85 includes/help.php:10
+msgid "Greeting"
+msgstr "הקדמה"
+
+#: includes/addnew.view.php:90 includes/help.php:11
+msgid "Petition Message"
+msgstr "תוכן העצומה"
+
+#: includes/addnew.view.php:97 includes/help.php:14 includes/help.php:38
+msgid "Twitter Message"
+msgstr "תוכן ההודעה בטוויטר"
+
+#: includes/addnew.view.php:112 includes/help.php:43
+msgid "Petition Options"
+msgstr "אפשרויות עצומה"
+
+#: includes/addnew.view.php:121 includes/help.php:17
+msgid "Confirm signatures"
+msgstr "אישור חתימות"
+
+#: includes/addnew.view.php:124
+msgid "Return URL"
+msgstr "תשואת URL"
+
+#: includes/addnew.view.php:133 includes/help.php:18
+msgid "Allow custom messages"
+msgstr "אפשר למשתמשים לערוך את ההודעה"
+
+#: includes/addnew.view.php:141 includes/help.php:19
+msgid "Set signature goal"
+msgstr "קבע מספר יעד לחתימות"
+
+#: includes/addnew.view.php:144 includes/petitions.view.php:20
+#: includes/petitions.view.php:29
+msgid "Goal"
+msgstr "יעד"
+
+#: includes/addnew.view.php:153 includes/help.php:20
+msgid "Set expiration date"
+msgstr "קבע תאריך תפוגה"
+
+#: includes/addnew.view.php:157
+msgid "Jan"
+msgstr "ינואר"
+
+#: includes/addnew.view.php:158
+msgid "Feb"
+msgstr "פברואר"
+
+#: includes/addnew.view.php:159
+msgid "Mar"
+msgstr "מרץ"
+
+#: includes/addnew.view.php:160
+msgid "Apr"
+msgstr "אפריל"
+
+#: includes/addnew.view.php:161
+msgid "May"
+msgstr "מאי"
+
+#: includes/addnew.view.php:162
+msgid "Jun"
+msgstr "יוני"
+
+#: includes/addnew.view.php:163
+msgid "Jul"
+msgstr "יולי"
+
+#: includes/addnew.view.php:164
+msgid "Aug"
+msgstr "אוגוסט"
+
+#: includes/addnew.view.php:165
+msgid "Sep"
+msgstr "ספטמבר"
+
+#: includes/addnew.view.php:166
+msgid "Oct"
+msgstr "אוקטובר"
+
+#: includes/addnew.view.php:167
+msgid "Nov"
+msgstr "נובמבר"
+
+#: includes/addnew.view.php:168
+msgid "Dec"
+msgstr "דצמבר"
+
+#: includes/addnew.view.php:190 includes/help.php:48
+msgid "Display Options"
+msgstr "אפשרויות תצוגה"
+
+#: includes/addnew.view.php:199 includes/help.php:23
+msgid "Display address fields"
+msgstr "הצגת שדות כתובת"
+
+#: includes/addnew.view.php:203 includes/emailpetition.php:96
+#: includes/widget.php:234
+msgid "Street"
+msgstr "רחוב"
+
+#: includes/addnew.view.php:206 includes/csv.php:47
+#: includes/emailpetition.php:104 includes/settings.view.php:98
+#: includes/widget.php:241
+msgid "City"
+msgstr "עיר"
+
+#: includes/addnew.view.php:209 includes/emailpetition.php:111
+#: includes/settings.view.php:101 includes/widget.php:248
+msgid "State / Province"
+msgstr "מדינה / מחוז"
+
+#: includes/addnew.view.php:212 includes/csv.php:49
+#: includes/emailpetition.php:121 includes/settings.view.php:104
+#: includes/widget.php:258
+msgid "Post Code"
+msgstr "מקוד"
+
+#: includes/addnew.view.php:215 includes/csv.php:50
+#: includes/emailpetition.php:128 includes/settings.view.php:107
+#: includes/widget.php:265
+msgid "Country"
+msgstr "מדינה"
+
+#: includes/addnew.view.php:223 includes/help.php:24
+msgid "Display custom field"
+msgstr "הצגת שדה מותאם אישית"
+
+#: includes/addnew.view.php:226 includes/addnew.view.php:238
+msgid "Label"
+msgstr "כותרת"
+
+#: includes/addnew.view.php:235 includes/help.php:25
+msgid "Display opt-in checkbox"
+msgstr "הצגת תיבת הסימון מנוי"
+
+#: includes/admin.php:9 includes/admin.php:10 includes/petitions.php:44
+#: includes/petitions.php:55
+msgid "Email Petitions"
+msgstr "עצומות נשלחות"
+
+#: includes/admin.php:20 includes/admin.php:21 includes/petitions.view.php:4
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: includes/admin.php:30 includes/admin.php:31 includes/petitions.view.php:19
+#: includes/petitions.view.php:28 includes/signatures.view.php:4
+msgid "Signatures"
+msgstr "חתימות"
+
+#: includes/admin.php:40 includes/settings.view.php:4
+msgid "Email Petitions Settings"
+msgstr "הגדרות עצומות"
+
+#: includes/admin.php:41
+msgid "Settings"
+msgstr "הגדרות"
+
+#: includes/class.petition.php:185
+msgid "No Title"
+msgstr "ללא כותרת"
+
+#: includes/class.speakup.php:117
+msgid "items"
+msgstr "מרכיבים"
+
+#: includes/class.speakup.php:131 includes/class.speakup.php:134
+msgid "of"
+msgstr "של"
+
+#: includes/confirmations.php:52
+msgid "Thank you. Your signature has been added to the petition."
+msgstr "תודה לך. חתימתך נוספה לעצומה"
+
+#: includes/confirmations.php:57
+msgid "Your signature has already been confirmed."
+msgstr "חתימתך כבר מאושרת"
+
+#: includes/confirmations.php:61
+msgid "The confirmation code you provided is invalid."
+msgstr "הקוד לאישור שסיפקת איננו נכון"
+
+#: includes/confirmations.php:96
+msgid "Email Confirmation"
+msgstr "אישור באימייל"
+
+#: includes/confirmations.php:98
+msgid "You will be redirected momentarily."
+msgstr "בעוד מספר שניות תועבר הלאה"
+
+#: includes/csv.php:9 includes/signatures.php:5
+msgid "Insufficient privileges: You need to be an editor to do that."
+msgstr "אין הרשאות מתאימות. עליך להיות עורך בכדי לעשות זאת."
+
+#: includes/csv.php:22 includes/signatures.view.php:66
+msgid "No signatures found."
+msgstr "לא נמצאו חתימות"
+
+#: includes/csv.php:43 includes/emailpetition.php:75 includes/widget.php:213
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: includes/csv.php:44 includes/emailpetition.php:79 includes/widget.php:217
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: includes/csv.php:45
+msgid "Email Address"
+msgstr "כתובת אימייל"
+
+#: includes/csv.php:46
+msgid "Street Address"
+msgstr "כתובת רחוב"
+
+#: includes/csv.php:48
+msgid "State"
+msgstr "מדינה"
+
+#: includes/csv.php:51
+msgid "Date Signed"
+msgstr "תאריך חתימה"
+
+#: includes/csv.php:52 includes/signatures.view.php:47
+#: includes/signatures.view.php:59
+msgid "Confirmed"
+msgstr "מאושר"
+
+#: includes/csv.php:53
+msgid "Petition Title"
+msgstr "כותרת העצומה"
+
+#: includes/csv.php:54
+msgid "Petition ID"
+msgstr "מספר העצומה"
+
+#: includes/csv.php:55
+msgid "Email Opt-in"
+msgstr "אישור קבלת עדכונים"
+
+#: includes/csv.php:56
+msgid "Custom Message"
+msgstr "ערוך הודעה"
+
+#: includes/csv.php:57
+msgid "Language"
+msgstr "שפה"
+
+#: includes/csv.php:67 includes/settings.view.php:110
+msgid "Custom Field"
+msgstr "שדה מותאם אישית"
+
+#: includes/csv.php:83 includes/signatures.view.php:76
+msgid "confirmed"
+msgstr "מאושר"
+
+#: includes/csv.php:86 includes/signatures.view.php:78
+msgid "unconfirmed"
+msgstr "לא מאושר"
+
+#: includes/csv.php:94 includes/signatures.view.php:84
+msgid "yes"
+msgstr "כן"
+
+#: includes/csv.php:97 includes/signatures.view.php:86
+msgid "no"
+msgstr "לא"
+
+#: includes/emailpetition.php:67
+msgid "Read the petition"
+msgstr "קראו את העתירה"
+
+#: includes/emailpetition.php:83 includes/signatures.view.php:45
+#: includes/signatures.view.php:57 includes/widget.php:221
+msgid "Email"
+msgstr "אימייל"
+
+#: includes/emailpetition.php:89 includes/widget.php:227
+msgid "Confirm Email"
+msgstr "אשר דוא\"ל"
+
+#: includes/emailpetition.php:148 includes/emailpetition.php:155
+#: includes/emailpetition.php:176 includes/emailpetition.php:205
+#: includes/widget.php:161 includes/widget.php:178 includes/widget.php:187
+msgid "signature"
+msgstr "חתימה"
+
+#: includes/emailpetition.php:195 includes/widget.php:207
+msgid "Signature goal"
+msgstr "יעד חתימות"
+
+#: includes/emailpetition.php:200 includes/widget.php:203
+msgid "End date"
+msgstr "תאריך סיום"
+
+#: includes/emailpetition.php:201 includes/widget.php:204
+msgid "Signatures collected"
+msgstr "חתימות שנאספו"
+
+#: includes/emailpetition.php:225
+msgid "Error: You must include a valid id."
+msgstr "עליך לרשום מספר קביל"
+
+#: includes/help.php:6 includes/help.php:75 includes/settings.view.php:81
+#: includes/widget.php:83
+msgid "Title"
+msgstr "כותרת"
+
+#: includes/help.php:6
+msgid ""
+"Enter the title of your petition, which will appear at the top of the "
+"petition form."
+msgstr "מלא את כותרת העצומה. הכותרת תופיע בראש הטופס."
+
+#: includes/help.php:7
+msgid ""
+"Use this option if do not wish to send petition emails to a target address."
+msgstr "בחר באפשרות זו אם ברצונך לבטל שליחת עותקים של העצומות לכל אחד."
+
+#: includes/help.php:8
+msgid ""
+"Enter the email address to which the petition will be sent. You may enter "
+"multiple email addresses, separated by commas."
+msgstr ""
+"מלא את כתובת האימייל אליה יישלחו עותקים של כל חתימה על עצומה. ניתן להזין "
+"מספר כתובות ולהפריד ביניהן בפסיק."
+
+#: includes/help.php:9
+msgid "Enter the subject of your petition email."
+msgstr "כותרת ההודעה שתישלח לתיבות הדואר של החותמים על העצומה"
+
+#: includes/help.php:10
+msgid ""
+"Include a greeting to the recipient of your petition, such as \"Dear Sir,\" "
+"which will appear as the first line of the email."
+msgstr ""
+"הוסף ברכה למקבל העצומה. ברכה כגון \"מר ישראלי ישראלי\" אשר תופיע בראש העצומה"
+
+#: includes/help.php:11
+msgid "Enter the content of your petition email."
+msgstr "תוכן העצומה עליה אתה מבקש שיחתמו"
+
+#: includes/help.php:14
+msgid ""
+"Enter a prepared tweet that will be presented to users when the Twitter "
+"button is clicked."
+msgstr "תוכן ציוץ  שיפורסם כאשר משתמשים ישתפו את העצומה בטוויטר."
+
+#: includes/help.php:17
+msgid ""
+"Use this option to cause an email to be sent to the signers of your "
+"petition. This email contains a special link must be clicked to confirm the "
+"signer's email address. Petition emails will not be sent until the signature "
+"is confirmed."
+msgstr ""
+"בחר באפשרות זו כדי לאפשר שליחת הודעת אישור לחותמים על העצומה הכוללת לינק "
+"לווידוא כתובת אימייל אמיתית."
+
+#: includes/help.php:18
+msgid ""
+"Check this option to allow signatories to customize the text of their "
+"petition email."
+msgstr "סמן אפשרות זו בכדי לאפשר לחותמים לערוך את טקסט העצומה"
+
+#: includes/help.php:19
+msgid ""
+"Enter the number of signatures you hope to collect. This number is used to "
+"calculate the progress bar display."
+msgstr ""
+"יעד מבוקש למספר חתימות. המספר ישמש לחישוב אחוזי מילוי העצומה אשר יופיע "
+"בתחתית הטופס."
+
+#: includes/help.php:20
+msgid "Use this option to stop collecting signatures on a specific date."
+msgstr "בחר באפשרות זו בכדי להפסיק לאסוף חתימות בתאריך מסוים."
+
+#: includes/help.php:23
+msgid "Select the address fields to display in the petition form."
+msgstr "בחר אילו שדות יופיעו בטופס העצומה."
+
+#: includes/help.php:24
+msgid "Add a custom field to the petition form for collecting additional data."
+msgstr "הוסף שדות נוספים לטופס העצומה לצורך איסוף פרטים לבחירתך."
+
+#: includes/help.php:25
+msgid ""
+"Include a checkbox that allows users to consent to receiving further email."
+msgstr "הוסף תיבה לסימון למשתמשים המעוניינים לקבל עדכוני אימייל ממך."
+
+#: includes/help.php:56
+msgid ""
+"These settings control the display of the [emailpetition] shortcode and "
+"sidebar widget."
+msgstr "הגדרות נראות של טופס העצומה שיראו הגולשים בתוכן או בסרגל הצד."
+
+#: includes/help.php:57 includes/settings.view.php:23
+msgid "Petition Theme"
+msgstr "תבנית עצומה"
+
+#: includes/help.php:57
+msgid "Select a CSS theme that will control the appearance of petition forms."
+msgstr "בחר תבנית עיצוב לטופס העצומה."
+
+#: includes/help.php:58 includes/settings.view.php:30
+msgid "Widget Theme"
+msgstr "תבנית ווידגט"
+
+#: includes/help.php:58
+msgid ""
+"Select a CSS theme that will control the appearance of petition widgets."
+msgstr "בחר סגנון עיצוב לווידגטים."
+
+#: includes/help.php:59 includes/settings.view.php:37
+msgid "Submit Button Text"
+msgstr "טקסט לכפתור שליחה"
+
+#: includes/help.php:59
+msgid ""
+"Enter the text that displays in the orange submit button on petition forms."
+msgstr "הטקסט שיופיע בכפתור לשליחת העצומה."
+
+#: includes/help.php:60 includes/settings.view.php:41
+msgid "Success Message"
+msgstr "הודעת אישור הצלחת הרישום"
+
+#: includes/help.php:60
+msgid ""
+"Enter the text that appears when a user successfully signs your petition "
+"with a unique email address."
+msgstr "טקסט להודעה על אישור קבלת החתימה שיישלח לתיבת האימייל של החותם."
+
+#: includes/help.php:61 includes/settings.view.php:49
+msgid "Share Message"
+msgstr "הודעת שיתוף"
+
+#: includes/help.php:61
+msgid ""
+"Enter the text that appears above the Twitter and Facebook buttons after the "
+"petition form has been submitted."
+msgstr ""
+"הטקסט שיופיע מעל כפתורי טוויטר ופייסבוק לאחר אישור סיום חתימה על העצומה."
+
+#: includes/help.php:62 includes/settings.view.php:53
+msgid "Expiration Message"
+msgstr "הודעת תוקף"
+
+#: includes/help.php:62
+msgid ""
+"Enter the text to display in place of the petition form when a petition is "
+"past its expiration date."
+msgstr "הטקסט שיופיע במקום טופס העצומה לאחר תום תוקף העצומה."
+
+#: includes/help.php:63 includes/settings.view.php:57
+msgid "Already Signed Message"
+msgstr "הודעת אימייל זה כבר רשום במערכת"
+
+#: includes/help.php:63
+msgid ""
+"Enter the text to display when a petition is signed using an email address "
+"that has already been submitted."
+msgstr "הטקסט שיופיע למשתמש שהזין כתובת אימייל אשר הוזנה כבר בעבר."
+
+#: includes/help.php:64 includes/settings.view.php:61
+msgid "Opt-in Default"
+msgstr "מנוי ברירת מחדל"
+
+#: includes/help.php:64
+msgid "Choose whether the opt-in checkbox is checked or unchecked by default."
+msgstr "האם התיבה לסימון תהיה מסומנת כברירת מחדל או לא."
+
+#: includes/help.php:65 includes/settings.view.php:68
+msgid "Display signature count"
+msgstr "הצגת מספר החתימות שנאספו עד כה."
+
+#: includes/help.php:65
+msgid ""
+"Choose whether you wish to display the number of signatures that have been "
+"collected."
+msgstr "בחר האם ברצונך להציג את מספר החתימות שנאספו עד כה."
+
+#: includes/help.php:68
+msgid "These settings control the content of the confirmation emails."
+msgstr ""
+"הגדרות אלו קובעות את תוכן הודעת האישור שתישלח למשתמשים אשר חתמו על העצומה."
+
+#: includes/help.php:69 includes/settings.view.php:123
+msgid "Email From"
+msgstr "טופס האימייל"
+
+#: includes/help.php:69
+msgid ""
+"Enter the email address associated with your website. Confirmation emails "
+"will be sent from this address."
+msgstr "כתובת אימייל ממנה יישלחו הודעות אישור למשתמשים החותמים על העצומה."
+
+#: includes/help.php:70
+msgid "Enter the subject of the confirmation email."
+msgstr "כותרת האימייל לאישור החיתמה על העצומה."
+
+#: includes/help.php:71 includes/settings.view.php:131
+msgid "Email Message"
+msgstr "הודעת אימייל"
+
+#: includes/help.php:71
+msgid "Enter the content of the confirmation email."
+msgstr "תוכן הודעת האימייל לאישור."
+
+#: includes/help.php:74
+msgid "These settings control the display of the [signaturelist] shortcode."
+msgstr "הגדרות אלו קובעות את הנראות והתצוגה של רשימת החתימות האחרונות."
+
+#: includes/help.php:75
+msgid "Enter the text that appears above the signature list."
+msgstr "מלא טקסט שיופיע מעל רשימת החתימות."
+
+#: includes/help.php:76 includes/settings.view.php:84
+msgid "Theme"
+msgstr "תבנית"
+
+#: includes/help.php:76
+msgid "Select a CSS theme that will control the appearance of signature lists."
+msgstr "בחר תבנית עיצוב לטופס החתימות האחרונות."
+
+#: includes/help.php:77 includes/settings.view.php:91
+msgid "Rows"
+msgstr "שורות"
+
+#: includes/help.php:77
+msgid ""
+"Enter the number of signatures that will be displayed in the signature list."
+msgstr "מספר החתימות לתצוגה בדף החתימות."
+
+#: includes/help.php:78 includes/settings.view.php:95
+msgid "Columns"
+msgstr "טורים"
+
+#: includes/help.php:78
+msgid "Select the columns that will appear in the signature list."
+msgstr "בחר את הטורים שברצונך להציג ברשימת החתימות האחרונות."
+
+#: includes/help.php:81
+msgid ""
+"These settings control the look of the plugin's options pages within the "
+"WordPress administrator."
+msgstr ""
+"הגדרות אלו קובעות את הנראות והתצוגה של עמודי האפשרויות של התוסף בממשק הניהול."
+
+#: includes/help.php:82 includes/settings.view.php:144
+msgid "Petitions table shows"
+msgstr "תיבת עצומות"
+
+#: includes/help.php:82
+msgid "Enter the number of rows to display in the \"Email Petitions\" table"
+msgstr "מלא את מספר השורות אשר ברצונך להציג בטבלת \"עצומות\""
+
+#: includes/help.php:83 includes/settings.view.php:148
+msgid "Signatures table shows"
+msgstr "תיבת חתימות"
+
+#: includes/help.php:83
+msgid "Enter the number of rows to display in the \"Signatures\" table"
+msgstr "מלא את מספר השורות אשר ברצונך להציג בטבלת \"חתימות\""
+
+#: includes/help.php:84 includes/settings.view.php:152
+msgid "CSV file includes"
+msgstr "קובץ CSV כולל"
+
+#: includes/help.php:84
+msgid ""
+"Select the subset of signatures that will be included in CSV file downloads"
+msgstr "בחר את מספר החתימות שייכללו בקובץ ה-CSV להורדה"
+
+#: includes/help.php:92 includes/settings.view.php:13
+#: includes/settings.view.php:20
+msgid "Petition Form"
+msgstr "טופס עצומה"
+
+#: includes/help.php:97 includes/settings.view.php:14
+#: includes/settings.view.php:78
+msgid "Signature List"
+msgstr "רשימת חתימות"
+
+#: includes/help.php:102 includes/settings.view.php:15
+#: includes/settings.view.php:120
+msgid "Confirmation Emails"
+msgstr "אימייל אישור"
+
+#: includes/help.php:107 includes/settings.view.php:16
+#: includes/settings.view.php:141
+msgid "Admin Display"
+msgstr "תצוגת מנהל"
+
+#: includes/install.php:64
+msgid "Sign Now"
+msgstr "חתום עכשיו"
+
+#: includes/install.php:65
+msgid "This petition is now closed."
+msgstr "העצומה נסגרה לחתימות"
+
+#: includes/install.php:66
+msgid "Thank you"
+msgstr "תודה לך"
+
+#: includes/install.php:66
+msgid "Your signature has been added."
+msgstr "חתימתך נוספה"
+
+#: includes/install.php:67
+msgid "This petition has already been signed using your email address."
+msgstr "העצומה כבר נחתמה על-ידי כתובת אימייל זו"
+
+#: includes/install.php:68
+msgid "Share this with your friends:"
+msgstr "שתף עם חברים:"
+
+#: includes/install.php:69 includes/install.php:189
+msgid "Please confirm your email address"
+msgstr "יש לאשר את כתובת האימייל"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Hello"
+msgstr "שלום"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Thank you for singing our petition"
+msgstr "אנו מודים לך על שליחת העצומה"
+
+#: includes/install.php:70 includes/install.php:192
+msgid "Please confirm your email address by clicking the link below:"
+msgstr "יש לאשר את כתובת האימייל על ידי לחיצה על הקישור שלהלן:"
+
+#: includes/install.php:75 includes/install.php:198
+msgid "Latest Signatures"
+msgstr "חתימות אחרונות"
+
+#: includes/petitions.php:46
+msgid "Petition deleted."
+msgstr "העצומה נמחקה"
+
+#: includes/petitions.view.php:9
+msgid "All Petitions"
+msgstr "כל העצומות"
+
+#: includes/petitions.view.php:18 includes/petitions.view.php:27
+msgid "Shortcodes"
+msgstr "קיצורים להטמעה"
+
+#: includes/petitions.view.php:34
+msgid "No petitions found."
+msgstr "עתירות לא נמצאו."
+
+#: includes/petitions.view.php:43
+msgid "Edit"
+msgstr "ערוך"
+
+#: includes/petitions.view.php:44 includes/signatures.view.php:98
+msgid "Delete"
+msgstr "מחק"
+
+#: includes/petitions.view.php:54
+msgid "View Signatures"
+msgstr "צפה ברשימת החתימות"
+
+#: includes/petitions.view.php:64
+msgid ""
+"Delete this petition permanently? All of the petition's signatures will be "
+"deleted as well."
+msgstr "למחוק עצומה זו לצמיתות? כל נתוני העצומה והחתימות יימחקו גם גן."
+
+#: includes/settings.php:31
+msgid "Settings updated."
+msgstr "ההגדרות נשמרו"
+
+#: includes/settings.view.php:25 includes/settings.view.php:32
+#: includes/settings.view.php:86
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: includes/settings.view.php:26
+msgid "Basic"
+msgstr "בסיסית"
+
+#: includes/settings.view.php:27 includes/settings.view.php:33
+#: includes/settings.view.php:87
+msgid "None"
+msgstr "ללא"
+
+#: includes/settings.view.php:27 includes/settings.view.php:33
+#: includes/settings.view.php:87
+msgid "use"
+msgstr "השתמש"
+
+#: includes/settings.view.php:44 includes/settings.view.php:134
+msgid "Accepted variables:"
+msgstr "משתנים מקובלים"
+
+#: includes/settings.view.php:45
+msgid "Accepted tags:"
+msgstr "תגים מקובלים"
+
+#: includes/settings.view.php:63
+msgid "Checked"
+msgstr "מסומן"
+
+#: includes/settings.view.php:64
+msgid "Unchecked"
+msgstr "לא מסומן"
+
+#: includes/settings.view.php:70
+msgid "Yes"
+msgstr "כן"
+
+#: includes/settings.view.php:71
+msgid "No"
+msgstr "לא"
+
+#: includes/settings.view.php:92
+msgid "leave blank to display all"
+msgstr "השאר ריק בכדי להציג הכל"
+
+#: includes/settings.view.php:113 includes/signatures.view.php:49
+#: includes/signatures.view.php:61
+msgid "Date"
+msgstr "תאריך"
+
+#: includes/settings.view.php:145 includes/settings.view.php:149
+msgid "rows"
+msgstr "שורות"
+
+#: includes/settings.view.php:154
+msgid "All signatures"
+msgstr "כל החתימות"
+
+#: includes/settings.view.php:155
+msgid "Only opt-in signatures"
+msgstr "הצג רק חותמים שאישרו רצונם להירשם"
+
+#: includes/settings.view.php:156
+msgid "Only double opt-in signatures"
+msgstr "הצג רק חותמים שאישרו להירשם וגם אישרו אימייל"
+
+#: includes/settings.view.php:156
+msgid "opt-in + confirmed"
+msgstr "אישור + אישרור במייל"
+
+#: includes/settings.view.php:162
+msgid "Save Changes"
+msgstr "שמור את השינויים"
+
+#: includes/signatures.php:48 includes/signatures.php:119
+msgid "All Signatures"
+msgstr "כל החתימות"
+
+#: includes/signatures.php:52
+msgid "Signature deleted."
+msgstr "חתימה נמחקה"
+
+#: includes/signatures.php:109
+msgid "Confirmation emails sent."
+msgstr "דוא\"ל אישור נשלחו."
+
+#: includes/signatures.view.php:16
+msgid "Select petition"
+msgstr "בחר העתירה"
+
+#: includes/signatures.view.php:26
+msgid "Download as CSV"
+msgstr "שמור בקובץ אקסל"
+
+#: includes/signatures.view.php:27
+msgid "Re-send confirmations"
+msgstr "שלח דוא\"ל אישור מחדש"
+
+#: includes/signatures.view.php:28
+msgid ""
+"Are you sure you want to do this? A separate confirmation email will be sent "
+"for each unconfirmed signature."
+msgstr ""
+"האם אתה בטוח שברצונך לעשות זאת? הודעת אימייל תישלח לכל אחד מהחותמים שטרם "
+"אישרו את האימייל."
+
+#: includes/signatures.view.php:44 includes/signatures.view.php:56
+msgid "Name"
+msgstr "שם"
+
+#: includes/signatures.view.php:48 includes/signatures.view.php:60
+msgid "Opt-in"
+msgstr "עדכונים באימייל"
+
+#: includes/widget.php:15
+msgid "Display a petition form."
+msgstr "הצגת טופס העתירה."
+
+#: includes/widget.php:72
+msgid "Sign the Petition"
+msgstr "חתום על העצומה"
+
+#: includes/widget.php:84
+msgid "Sharing URL"
+msgstr "URL שיתוף"
+
+#: includes/widget.php:85
+msgid "Call to Action"
+msgstr "קריאה לפעולה"
+
+#~ msgid "Petition Display"
+#~ msgstr "תצוגת עצומה"
+
+#~ msgid "Standard theme (default)"
+#~ msgstr "תבנית סטנדרט (ברירת מחדל)"
+
+#~ msgid "No theme. I will style the petition form myself."
+#~ msgstr "ללא תבנית. אני יכול לעצב אותה בעצמי."
+
+#~ msgid "Confirmation Message"
+#~ msgstr "הודעת אישור"
+
+#~ msgid "Signature List Display"
+#~ msgstr "תצוגת רשימת החתימות"
+
+#~ msgid "Signature list header"
+#~ msgstr "כותרת לרשימת החתימות"
+
+#~ msgid "Signature list shows"
+#~ msgstr "להציג את רשימת החתימות"
+
+#~ msgid "Signature list columns"
+#~ msgstr "רשימת חתימה עמודות"
+
+#~ msgid "SIGN THE PETITION"
+#~ msgstr "חתום על העצומה"
+
+#~ msgid "SIGN NOW"
+#~ msgstr "חתום כעת"
+
+#~ msgid "signatures"
+#~ msgstr "חתימות"
+
+#~ msgid "Your Signature"
+#~ msgstr "החתימה שלך"
+
+#~ msgid ""
+#~ "If you find this plugin useful, please consider %1$s making a donation "
+#~ "%2$s to support it's development."
+#~ msgstr ""
+#~ "אם אתה מוצא את הפלאגין שימושי, אנא שקול %1$s שליחת תרומה %2$s לטובת עזרה "
+#~ "בהמשך הפיתוח."
+
+#~ msgid "Address"
+#~ msgstr "כתובת"
+
+#~ msgid "Your Name"
+#~ msgstr "השם שלך"
+
+#~ msgid "Your Email"
+#~ msgstr "הדואר האלקרוני שלך"
+
+#~ msgid "This petition"
+#~ msgstr "עצומה זו"
+
+#~ msgid "your email address"
+#~ msgstr "כתובת הדוא\"ל שלך"
+
+#~ msgid "Petition Header"
+#~ msgstr "כותרת העצומה"
