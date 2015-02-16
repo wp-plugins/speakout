@@ -97,7 +97,7 @@ If the CSV file looks scrambled, try changing its filename extension from .csv t
 
 = 1.0.0 =
 
-Initial fork of SpeakUp! with additional privacy option
+Initial fork of SpeakUp! with additional privacy option in setting so only display first letter of surname
 
 == Upgrade Notice ==
 
