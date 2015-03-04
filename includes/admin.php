@@ -11,7 +11,7 @@ function dk_speakout_create_menus() {
 		'capability' => 'publish_posts',
 		'menu_slug'  => 'dk_speakout',
 		'function'   => 'dk_speakout_petitions_page',
-		'icon_url'   => plugins_url( 'speakout-email-petitions/images/blank.png' )
+		'icon_url'   => plugins_url( 'speakout/images/icon-emailpetitions-32.png' )
 	);
 	$petitions_page = add_menu_page( $petitions['page_title'], $petitions['menu_title'], $petitions['capability'], $petitions['menu_slug'], $petitions['function'], $petitions['icon_url'] );
 
@@ -58,10 +58,10 @@ function dk_speakout_menu_icon() {
 	echo '
 		<style type="text/css">
 			#toplevel_page_dk_speakout .wp-menu-image {
-				background: url(' . plugins_url( "speakout-email-petitions/images/icon-emailpetitions-16.png" ) . ') no-repeat 6px 7px !important;
+				background: url(' . plugins_url( "speakout/images/icon-emailpetitions-16.png" ) . ') no-repeat 6px 7px !important;
 			}
 			body.admin-color-classic #toplevel_page_dk_speakout .wp-menu-image {
-				background: url(' . plugins_url( "speakout-email-petitions/images/icon-emailpetitions-16.png" ) . ') no-repeat 6px -41px !important;
+				background: url(' . plugins_url( "speakout/images/icon-emailpetitions-16.png" ) . ') no-repeat 6px -41px !important;
 			}
 			#toplevel_page_dk_speakout:hover .wp-menu-image, #toplevel_page_dk_speakout.wp-has-current-submenu .wp-menu-image {
 				background-position: 6px -17px !important;
@@ -80,7 +80,7 @@ function dk_speakout_admin_js() {
 	global $parent_file;
 
 	if ( $parent_file == 'dk_speakout' ) {
-		wp_enqueue_script( 'dk_speakout_admin_js', plugins_url( 'speakout-email-petitions/js/admin.js' ), array( 'jquery' ) );
+		wp_enqueue_script( 'dk_speakout_admin_js', plugins_url( 'speakout/js/admin.js' ), array( 'jquery' ) );
 		wp_enqueue_script( 'post', admin_url( 'js/post.js' ), 'jquery' );
 	}
 }
@@ -91,7 +91,7 @@ function dk_speakout_admin_css() {
 	global $parent_file;
 
 	if ( $parent_file == 'dk_speakout' ) {
-		wp_enqueue_style( 'dk_speakout_admin_css', plugins_url( 'speakout-email-petitions/css/admin.css' ) );
+		wp_enqueue_style( 'dk_speakout_admin_css', plugins_url( 'speakout/css/admin.css' ) );
 	}
 }
 
