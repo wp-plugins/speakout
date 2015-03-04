@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: petition, activism, community, email, social media
 Requires at least: 3.4
 Tested up to: 4.1
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 
 SpeakOut! Email Petitions makes it easy to add petitions to your website and rally your community to support a cause by using direct action.
 
@@ -94,6 +94,10 @@ If the CSV file looks scrambled, try changing its filename extension from .csv t
 8. Email confirmation screen
 
 == Changelog ==
+= 1.1.1 =
+
+Getting dashboard icons right
+
 = 1.1.0 =
 
 Fix broken directory references missed as part of fork.
