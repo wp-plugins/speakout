@@ -3,8 +3,8 @@
 Plugin Name: SpeakOut! Email Petitions
 Plugin URI: http://speakout.123host.com.au/
 Description: Create custom email petition forms and include them on your site via shortcode or widget. Signatures are saved in the database and can be exported to CSV.
-Version: 1.0.1
-Author: Steve Davis forked from SpeakUp!
+Version: 1.1.0
+Author: Steve D forked from SpeakUp!
 Author URI: http://speakout.123host.com.au
 License: GPL2
 */
