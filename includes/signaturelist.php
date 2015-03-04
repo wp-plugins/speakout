@@ -35,7 +35,7 @@ function dk_speakout_signatures_shortcode( $attr ) {
 		'ajaxurl'    => admin_url( 'admin-ajax.php', $protocol ),
 		'dateformat' => $dateformat
 	);
-	wp_enqueue_script( 'dk_speakout_signaturelist_js', plugins_url( 'speakout-email-petitions/js/signaturelist.js' ), array( 'jquery' ) );
+	wp_enqueue_script( 'dk_speakout_signaturelist_js', plugins_url( 'speakout/js/signaturelist.js' ), array( 'jquery' ) );
 	wp_localize_script( 'dk_speakout_signaturelist_js', 'dk_speakout_signaturelist_js', $params );
 
 	$table_html = dk_speakout_Signaturelist::table( $id, 0, $rows, 'shortcode', $dateformat, $nextbuttontext, $prevbuttontext );
@@ -68,7 +68,7 @@ function dk_speakout_signaturelist_css( $posts ) {
 
 		 // load default theme
 		if ( $theme === 'default' ) {
-			wp_enqueue_style( 'dk_speakout_signaturelist_css', plugins_url( 'speakout-email-petitions/css/signaturelist.css' ) );
+			wp_enqueue_style( 'dk_speakout_signaturelist_css', plugins_url( 'speakout/css/signaturelist.css' ) );
 		}
 		// attempt to load cusom theme (petition-signaturelist.css)
 		else {

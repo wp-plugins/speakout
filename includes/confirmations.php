@@ -77,14 +77,14 @@ function dk_speakout_confirm_email() {
 					font-size: 14px;
 				}
 				#confirmation {
-					background: #fff url(' . plugins_url( "speakout-email-petitions/images/mail-stripes.png" ) . ') repeat top left;
+					background: #fff url(' . plugins_url( "speakout/images/mail-stripes.png" ) . ') repeat top left;
 					border: 1px solid #fff;
 					width: 515px;
 					margin: 200px auto 0 auto;
 					box-shadow: 0px 3px 5px #333;
 				}
 				#confirmation-content {
-					background: #fff url(' . plugins_url( "speakout-email-petitions/images/postmark.png" ) . ') no-repeat top right;
+					background: #fff url(' . plugins_url( "speakout/images/postmark.png" ) . ') no-repeat top right;
 					margin: 10px;
 					padding: 40px 0 20px 100px;
 				}

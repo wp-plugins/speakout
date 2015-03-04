@@ -17,7 +17,7 @@ $dk_speakout_version = '2.4.2';
 // enable localizations
 add_action( 'init', 'dk_speakout_translate' );
 function dk_speakout_translate() {
-	load_plugin_textdomain( 'dk_speakout', false, 'speakout-email-petitions/languages' );
+	load_plugin_textdomain( 'dk_speakout', false, 'speakout/languages' );
 }
 
 // load admin functions only on admin pages
