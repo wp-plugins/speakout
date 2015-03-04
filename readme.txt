@@ -103,6 +103,9 @@ Fix broken directory references missed as part of fork.
 Initial fork of SpeakUp! with additional privacy option in setting so only display first letter of surname
 
 == Upgrade Notice ==
+= 1.1.0 =
+
+Upgrade required
 
 = 1.0.0 =
 * No upgrade at this time
