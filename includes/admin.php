@@ -10,7 +10,7 @@ function dk_speakout_create_menus() {
 		'capability' => 'publish_posts',
 		'menu_slug'  => 'dk_speakout',
 		'function'   => 'dk_speakout_petitions_page',
-		'icon_url'   => plugins_url( 'speakout/images/icon-emailpetitions-32.png' )
+		'icon_url'   => plugins_url( 'speakout/images/blank.png' )
 	);
 	$petitions_page = add_menu_page( $petitions['page_title'], $petitions['menu_title'], $petitions['capability'], $petitions['menu_slug'], $petitions['function'], $petitions['icon_url'] );
 
