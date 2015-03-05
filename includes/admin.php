@@ -1,5 +1,4 @@
 <?php
-
 // create admin menus
 add_action( 'admin_menu', 'dk_speakout_create_menus' );
 function dk_speakout_create_menus() {
