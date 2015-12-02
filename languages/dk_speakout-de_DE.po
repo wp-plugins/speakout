@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: SpeakUp! Email Petitions\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-20 07:22-0700\n"
-"PO-Revision-Date: 2013-03-20 07:22-0700\n"
+"PO-Revision-Date: 2015-12-02 19:19+0100\n"
 "Last-Translator: Kreg <Wallace>\n"
 "Language-Team: DesignKode <speakup@designkode.com>\n"
 "Language: de_DE\n"
@@ -14,7 +14,7 @@ msgstr ""
 "_ex;esc_attr_x;_n;_nx;_n_noop\n"
 "X-Poedit-Basepath: ../\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: speakup-email-petitions.php:61
@@ -27,7 +27,7 @@ msgstr "Spenden"
 
 #: includes/addnew.php:28 includes/addnew.php:53
 msgid "Edit Email Petition"
-msgstr "Email-Petition bearbeiten"
+msgstr "E-Mail-Petition bearbeiten"
 
 #: includes/addnew.php:32 includes/addnew.php:57 includes/addnew.php:76
 msgid "Update Petition"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: includes/addnew.php:72
 msgid "Edit New Email Petition"
-msgstr "Neue Email-Petition bearbeiten"
+msgstr "Neue E-Mail-Petition bearbeiten"
 
 #: includes/addnew.php:77
 msgid "Petition updated."
@@ -53,7 +53,7 @@ msgstr "Petition aktualisiert."
 
 #: includes/addnew.php:84
 msgid "Add New Email Petition"
-msgstr "Neue Email-Petition erstellen"
+msgstr "Neue E-Mail-Petition erstellen"
 
 #: includes/addnew.php:88
 msgid "Create Petition"
@@ -61,7 +61,7 @@ msgstr "Petition erstellen"
 
 #: includes/addnew.php:90
 msgid "Add me to your mailing list"
-msgstr "Nehmen Sie mich in Ihren Email-Verteiler auf"
+msgstr "Nehmen Sie mich in Ihren E-Mail-Verteiler auf"
 
 #: includes/addnew.view.php:49
 msgid "Error: Please correct the highlighted fields."
@@ -81,16 +81,16 @@ msgstr "Petition"
 
 #: includes/addnew.view.php:75 includes/help.php:7
 msgid "Do not send email (only collect signatures)"
-msgstr "Keine Emails verschicken (nur Unterschriften sammeln)"
+msgstr "Keine E-Mails verschicken (nur Unterschriften sammeln)"
 
 #: includes/addnew.view.php:79 includes/help.php:8
 msgid "Target Email"
-msgstr "Empfänger der Email"
+msgstr "Empfänger der E-Mail"
 
 #: includes/addnew.view.php:82 includes/help.php:9 includes/help.php:70
 #: includes/settings.view.php:127
 msgid "Email Subject"
-msgstr "Betreff der Email"
+msgstr "Betreff der E-Mail"
 
 #: includes/addnew.view.php:85 includes/help.php:10
 msgid "Greeting"
@@ -245,7 +245,7 @@ msgstr "Unterschriften"
 
 #: includes/admin.php:40 includes/settings.view.php:4
 msgid "Email Petitions Settings"
-msgstr "Email-Einstellungen der Petition"
+msgstr "E-Mail-Einstellungen der Petition"
 
 #: includes/admin.php:41
 msgid "Settings"
@@ -301,7 +301,7 @@ msgstr "Nachname"
 
 #: includes/csv.php:45
 msgid "Email Address"
-msgstr "Email-Adresse"
+msgstr "E-Mail-Adresse"
 
 #: includes/csv.php:46
 msgid "Street Address"
@@ -330,7 +330,7 @@ msgstr "Petition ID"
 
 #: includes/csv.php:55
 msgid "Email Opt-in"
-msgstr "Email-Verteilerliste"
+msgstr "E-Mail-Verteilerliste"
 
 #: includes/csv.php:56
 msgid "Custom Message"
@@ -367,11 +367,11 @@ msgstr "Lesen Sie die Petition"
 #: includes/emailpetition.php:83 includes/signatures.view.php:45
 #: includes/signatures.view.php:57 includes/widget.php:221
 msgid "Email"
-msgstr "Email"
+msgstr "E-Mail"
 
 #: includes/emailpetition.php:89 includes/widget.php:227
 msgid "Confirm Email"
-msgstr "Bestätigen Sie per Email"
+msgstr "Bestätigen der E-Mail"
 
 #: includes/emailpetition.php:148 includes/emailpetition.php:155
 #: includes/emailpetition.php:176 includes/emailpetition.php:205
