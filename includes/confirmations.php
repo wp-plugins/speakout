@@ -68,7 +68,7 @@ function dk_speakout_confirm_email() {
 		<html>
 		<head>
 			<meta http-equiv="Content-Type" content="text/html; charset=' . get_bloginfo( "charset" ) . '" />
-			<meta http-equiv="refresh" content="10;' . $the_petition->return_url . '"> 
+			<meta http-equiv="refresh" content="10;' . ($the_petition->return_url ?: home_url()) . '"> 
 			<title>' . get_bloginfo( "name" ) . '</title>
 			<style type="text/css">
 				body {
