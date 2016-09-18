@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: SpeakUp! Email Petitions\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-20 07:20-0700\n"
-"PO-Revision-Date: 2013-03-20 07:21-0700\n"
+"PO-Revision-Date: 2016-09-18 18:33+0100\n"
 "Last-Translator: Kreg <Wallace>\n"
 "Language-Team: Macitaly <macitaly@gmail.com>\n"
 "Language: it_IT\n"
@@ -12,9 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
 "_ex;esc_attr_x;_n;_nx;_n_noop\n"
-"X-Poedit-Basepath: ../\n"
+"X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.8.9\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: speakup-email-petitions.php:61
@@ -760,7 +760,7 @@ msgstr "Ciao"
 
 #: includes/install.php:70 includes/install.php:192
 msgid "Thank you for signing our petition"
-msgstr "Grazie per il canto la nostra petizione"
+msgstr "Grazie per il sostegno la nostra petizione"
 
 #: includes/install.php:70 includes/install.php:192
 msgid "Please confirm your email address by clicking the link below:"
