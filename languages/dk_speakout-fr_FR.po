@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SpeakUp! Email Petitions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-20 07:21-0700\n"
-"PO-Revision-Date: 2013-03-20 07:22-0700\n"
+"POT-Creation-Date: 2016-09-18 18:23+0100\n"
+"PO-Revision-Date: 2016-09-18 18:25+0100\n"
 "Last-Translator: Kreg <Wallace>\n"
 "Language-Team: DesignKode <speakup@designkode.com>\n"
 "Language: fr_FR\n"
@@ -12,18 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
 "_ex;esc_attr_x;_n;_nx;_n_noop\n"
-"X-Poedit-Basepath: ../\n"
+"X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.8.9\n"
 "X-Poedit-SearchPath-0: .\n"
-
-#: speakup-email-petitions.php:61
-msgid "Support"
-msgstr "Soutenir"
-
-#: speakup-email-petitions.php:62
-msgid "Donate"
-msgstr "Donner"
 
 #: includes/addnew.php:28 includes/addnew.php:53
 msgid "Edit Email Petition"
@@ -87,7 +79,7 @@ msgid "Target Email"
 msgstr "Email Cible"
 
 #: includes/addnew.view.php:82 includes/help.php:9 includes/help.php:70
-#: includes/settings.view.php:127
+#: includes/settings.view.php:135
 msgid "Email Subject"
 msgstr "Objet du email"
 
@@ -194,24 +186,24 @@ msgid "Street"
 msgstr "Rue"
 
 #: includes/addnew.view.php:206 includes/csv.php:47
-#: includes/emailpetition.php:104 includes/settings.view.php:98
+#: includes/emailpetition.php:104 includes/settings.view.php:99
 #: includes/widget.php:241
 msgid "City"
 msgstr "Ville"
 
 #: includes/addnew.view.php:209 includes/emailpetition.php:111
-#: includes/settings.view.php:101 includes/widget.php:248
+#: includes/settings.view.php:102 includes/widget.php:248
 msgid "State / Province"
 msgstr "État / Province"
 
 #: includes/addnew.view.php:212 includes/csv.php:49
-#: includes/emailpetition.php:121 includes/settings.view.php:104
+#: includes/emailpetition.php:121 includes/settings.view.php:105
 #: includes/widget.php:258
 msgid "Post Code"
 msgstr "Code Postal"
 
 #: includes/addnew.view.php:215 includes/csv.php:50
-#: includes/emailpetition.php:128 includes/settings.view.php:107
+#: includes/emailpetition.php:128 includes/settings.view.php:108
 #: includes/widget.php:265
 msgid "Country"
 msgstr "Pays"
@@ -228,25 +220,25 @@ msgstr "Étiquette"
 msgid "Display opt-in checkbox"
 msgstr "Affichage d'abonnement case"
 
-#: includes/admin.php:9 includes/admin.php:10 includes/petitions.php:44
+#: includes/admin.php:8 includes/admin.php:9 includes/petitions.php:44
 #: includes/petitions.php:55
 msgid "Email Petitions"
 msgstr "Pétitions"
 
-#: includes/admin.php:20 includes/admin.php:21 includes/petitions.view.php:4
+#: includes/admin.php:19 includes/admin.php:20 includes/petitions.view.php:4
 msgid "Add New"
 msgstr "Ajouter"
 
-#: includes/admin.php:30 includes/admin.php:31 includes/petitions.view.php:19
+#: includes/admin.php:29 includes/admin.php:30 includes/petitions.view.php:19
 #: includes/petitions.view.php:28 includes/signatures.view.php:4
 msgid "Signatures"
 msgstr "Signatures"
 
-#: includes/admin.php:40 includes/settings.view.php:4
+#: includes/admin.php:39 includes/settings.view.php:4
 msgid "Email Petitions Settings"
 msgstr "Options des Pétitions"
 
-#: includes/admin.php:41
+#: includes/admin.php:40
 msgid "Settings"
 msgstr "Réglages"
 
@@ -254,11 +246,11 @@ msgstr "Réglages"
 msgid "No Title"
 msgstr "Pas de titre"
 
-#: includes/class.speakup.php:117
+#: includes/class.speakout.php:117
 msgid "items"
 msgstr "articles"
 
-#: includes/class.speakup.php:131 includes/class.speakup.php:134
+#: includes/class.speakout.php:131 includes/class.speakout.php:134
 msgid "of"
 msgstr "de"
 
@@ -339,7 +331,7 @@ msgstr "Message personnalisé"
 msgid "Language"
 msgstr "Langue"
 
-#: includes/csv.php:67 includes/settings.view.php:110
+#: includes/csv.php:67 includes/settings.view.php:111
 msgid "Custom Field"
 msgstr "Champ personnalisé"
 
@@ -612,7 +604,7 @@ msgstr ""
 "Ces paramètres permettent de contrôler le contenu des e-mails de "
 "confirmation."
 
-#: includes/help.php:69 includes/settings.view.php:123
+#: includes/help.php:69 includes/settings.view.php:131
 msgid "Email From"
 msgstr "Email De"
 
@@ -628,7 +620,7 @@ msgstr ""
 msgid "Enter the subject of the confirmation email."
 msgstr "Entrez l'objet de l'email de confirmation."
 
-#: includes/help.php:71 includes/settings.view.php:131
+#: includes/help.php:71 includes/settings.view.php:139
 msgid "Email Message"
 msgstr "E-mail Message"
 
@@ -667,7 +659,7 @@ msgstr ""
 "Entrez le nombre de signatures qui seront affichées dans la liste des "
 "signatures."
 
-#: includes/help.php:78 includes/settings.view.php:95
+#: includes/help.php:78 includes/settings.view.php:96
 msgid "Columns"
 msgstr "Colonnes"
 
@@ -684,7 +676,7 @@ msgstr ""
 "Ces paramètres permettent de contrôler l'apparence des pages d'options du "
 "plugin au sein de l'administrateur WordPress."
 
-#: includes/help.php:82 includes/settings.view.php:144
+#: includes/help.php:82 includes/settings.view.php:152
 msgid "Petitions table shows"
 msgstr "Table pétitions montre"
 
@@ -694,7 +686,7 @@ msgstr ""
 "Entrez le nombre de lignes à afficher dans le dossier \"Pétitions Email\" "
 "table"
 
-#: includes/help.php:83 includes/settings.view.php:148
+#: includes/help.php:83 includes/settings.view.php:156
 msgid "Signatures table shows"
 msgstr "Tableau des signatures montre"
 
@@ -703,7 +695,7 @@ msgid "Enter the number of rows to display in the \"Signatures\" table"
 msgstr ""
 "Entrez le nombre de lignes à afficher dans le dossier \"Signatures\" table"
 
-#: includes/help.php:84 includes/settings.view.php:152
+#: includes/help.php:84 includes/settings.view.php:160
 msgid "CSV file includes"
 msgstr "Le fichier CSV comprend"
 
@@ -725,12 +717,12 @@ msgid "Signature List"
 msgstr "Liste Signatures"
 
 #: includes/help.php:102 includes/settings.view.php:15
-#: includes/settings.view.php:120
+#: includes/settings.view.php:128
 msgid "Confirmation Emails"
 msgstr "Les Emails de Confirmation"
 
 #: includes/help.php:107 includes/settings.view.php:16
-#: includes/settings.view.php:141
+#: includes/settings.view.php:149
 msgid "Admin Display"
 msgstr "Afficher Admin"
 
@@ -758,25 +750,25 @@ msgstr "Cette pétition a déjà été signé en utilisant votre adresse email."
 msgid "Share this with your friends:"
 msgstr "Partager avec vos amis:"
 
-#: includes/install.php:69 includes/install.php:189
+#: includes/install.php:69 includes/install.php:145
 msgid "Please confirm your email address"
 msgstr "S'il vous plaît confirmer votre adresse email"
 
-#: includes/install.php:70 includes/install.php:192
+#: includes/install.php:70 includes/install.php:148
 msgid "Hello"
 msgstr "Bonjour"
 
-#: includes/install.php:70 includes/install.php:192
-msgid "Thank you for singing our petition"
-msgstr "Je vous remercie pour chanter notre pétition"
+#: includes/install.php:70 includes/install.php:148
+msgid "Thank you for signing our petition"
+msgstr "Nous vous remercions de soutenir notre pétition"
 
-#: includes/install.php:70 includes/install.php:192
+#: includes/install.php:70 includes/install.php:148
 msgid "Please confirm your email address by clicking the link below:"
 msgstr ""
 "S'il vous plaît confirmer votre adresse email en cliquant sur le lien ci-"
 "dessous:"
 
-#: includes/install.php:75 includes/install.php:198
+#: includes/install.php:75 includes/install.php:154
 msgid "Latest Signatures"
 msgstr "Dernières Signatures"
 
@@ -839,7 +831,7 @@ msgstr "aucun"
 msgid "use"
 msgstr "utiliser"
 
-#: includes/settings.view.php:44 includes/settings.view.php:134
+#: includes/settings.view.php:44 includes/settings.view.php:142
 msgid "Accepted variables:"
 msgstr "Des variables acceptés:"
 
@@ -867,32 +859,44 @@ msgstr "Non"
 msgid "leave blank to display all"
 msgstr "laisser vide pour tout afficher"
 
-#: includes/settings.view.php:113 includes/signatures.view.php:49
+#: includes/settings.view.php:114 includes/signatures.view.php:49
 #: includes/signatures.view.php:61
 msgid "Date"
 msgstr "Date"
 
-#: includes/settings.view.php:145 includes/settings.view.php:149
+#: includes/settings.view.php:118
+msgid "Privacy"
+msgstr ""
+
+#: includes/settings.view.php:120
+msgid "enabled - only show first letter of surname"
+msgstr ""
+
+#: includes/settings.view.php:121
+msgid "disabled"
+msgstr ""
+
+#: includes/settings.view.php:153 includes/settings.view.php:157
 msgid "rows"
 msgstr "lignes"
 
-#: includes/settings.view.php:154
+#: includes/settings.view.php:162
 msgid "All signatures"
 msgstr "Toutes les signatures"
 
-#: includes/settings.view.php:155
+#: includes/settings.view.php:163
 msgid "Only opt-in signatures"
 msgstr "Seul l'opt-in signatures"
 
-#: includes/settings.view.php:156
+#: includes/settings.view.php:164
 msgid "Only double opt-in signatures"
 msgstr "Seuls double opt-in signatures"
 
-#: includes/settings.view.php:156
+#: includes/settings.view.php:164
 msgid "opt-in + confirmed"
 msgstr "opt-in + confirmé"
 
-#: includes/settings.view.php:162
+#: includes/settings.view.php:170
 msgid "Save Changes"
 msgstr "Enregistrer les Modifications"
 
@@ -951,6 +955,14 @@ msgstr "Partage URL"
 #: includes/widget.php:85
 msgid "Call to Action"
 msgstr "Appel à l'action"
+
+#: speakout-email-petitions.php:61
+msgid "Support"
+msgstr "Soutenir"
+
+#: speakout-email-petitions.php:62
+msgid "Donate"
+msgstr "Donner"
 
 #~ msgid "Petition Display"
 #~ msgstr "Pétition d'Affichage"
