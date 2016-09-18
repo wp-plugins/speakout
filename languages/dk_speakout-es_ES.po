@@ -766,7 +766,7 @@ msgid "Hello"
 msgstr "¡Hola"
 
 #: includes/install.php:70 includes/install.php:192
-msgid "Thank you for singing our petition"
+msgid "Thank you for signing our petition"
 msgstr "Gracias por cantar nuestra petición"
 
 #: includes/install.php:70 includes/install.php:192

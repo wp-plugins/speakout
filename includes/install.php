@@ -67,7 +67,7 @@ function dk_speakout_install() {
 		"already_signed_message" => __( "This petition has already been signed using your email address.", "dk_speakout"),
 		"share_message"          => __( "Share this with your friends:", "dk_speakout" ),
 		"confirm_subject"        => __( "Please confirm your email address", "dk_speakout" ),
-		"confirm_message"        => __( "Hello", "dk_speakout" ) . " %first_name%\r\n\r\n" . __( "Thank you for singing our petition", "dk_speakout" ) . ". " . __( "Please confirm your email address by clicking the link below:", "dk_speakout" ) . "\r\n%confirmation_link%\r\n\r\n" . get_bloginfo( "name" ),
+		"confirm_message"        => __( "Hello", "dk_speakout" ) . " %first_name%\r\n\r\n" . __( "Thank you for signing our petition", "dk_speakout" ) . ". " . __( "Please confirm your email address by clicking the link below:", "dk_speakout" ) . "\r\n%confirmation_link%\r\n\r\n" . get_bloginfo( "name" ),
 		"confirm_email"          => get_bloginfo( "name" ) . " <" . get_bloginfo( "admin_email" ) . ">",
 		"optin_default"          => "unchecked",
 		"display_count"          => "1",
@@ -145,7 +145,7 @@ function dk_speakout_update() {
 			$options['confirm_subject'] = __( 'Please confirm your email address', 'dk_speakout' );
 		}
 		if ( ! array_key_exists( 'confirm_message', $options ) ) {
-			$options['confirm_message'] = __( "Hello", "dk_speakout" ) . " %first_name%\r\n\r\n" . __( "Thank you for singing our petition", "dk_speakout" ) . ". " . __( "Please confirm your email address by clicking the link below:", "dk_speakout" ) . "\r\n%confirmation_link%\r\n\r\n" . get_bloginfo( "name" );
+			$options['confirm_message'] = __( "Hello", "dk_speakout" ) . " %first_name%\r\n\r\n" . __( "Thank you for signing our petition", "dk_speakout" ) . ". " . __( "Please confirm your email address by clicking the link below:", "dk_speakout" ) . "\r\n%confirmation_link%\r\n\r\n" . get_bloginfo( "name" );
 		}
 		if ( ! array_key_exists( 'confirm_email', $options ) ) {
 			$options['confirm_email'] = get_bloginfo( 'name' ) . ' <' . get_bloginfo( 'admin_email' ) . '>';
